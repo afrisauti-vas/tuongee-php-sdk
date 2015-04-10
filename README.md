@@ -1,7 +1,7 @@
 # tuongee-php-sdk
 Tuongee PHP sdk
 
-```
+``` php 
 <?php 
 
 require './sdk/tuongee.class.php';
