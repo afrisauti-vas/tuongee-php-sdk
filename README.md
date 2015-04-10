@@ -1,6 +1,8 @@
 # tuongee-php-sdk
 Tuongee PHP sdk
 
+### An example script 
+
 ``` php
 <?php 
 
