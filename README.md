@@ -37,8 +37,10 @@ $tuongee->setMenu( $menu );
 // Send the reply back to the customer 
 $tuongee->display();
 
-// Prevent any further processing otherwise the content type might be different from the required application/xml
-// NB: Always make sure the response content-type is application/xml otherwise your customer won't receive the response
+// Prevent any further processing otherwise the content type might be different 
+// from the required application/xml
+// NB: Always make sure the response content-type is application/xml 
+// otherwise your customer won't receive the response
 exit();
 ?>
 ```
