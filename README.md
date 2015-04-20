@@ -37,5 +37,11 @@ $tuongee->setMenu( $menu );
 // Send the reply back to the customer 
 $tuongee->display();
 ?>
+```
 
+When you run this code, the following is the response which is forwarded back to your customer via whatsapp 
+``` json 
+Welcome customer to our service. Choose from the menus below
+1: My account history
+2: Check order status
 ```
